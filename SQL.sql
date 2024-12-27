@@ -1,0 +1,1 @@
+SELECT * FROM gdb041.dim_product;
